@@ -1,0 +1,20 @@
+@media only screen and (max-width:420px) {
+    body {
+        background: url("moblie.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% 100vh;
+    }
+    .container {
+        /* border: 2px solid red; */
+        width: 28%;
+        position: absolute;
+        top: 30%;
+        left: 18%;
+        width: 65%;
+    }
+    .container .box i {
+        color: white;
+        font-size: 22px;
+        margin: 6px 3px;
+    }
+}
